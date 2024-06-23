@@ -48,3 +48,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Link para o Github Pages:
 https://ylano.github.io/LoginLoL/
+<a href="https://ylano.github.io/LoginLoL/" target="_blank">Link para a tela de login</a> 
