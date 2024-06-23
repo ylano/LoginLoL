@@ -47,4 +47,4 @@ Abra o arquivo index.html em seu navegador.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests com sugestões, correções ou melhorias.
 
 ## Link para o Github Pages:
-https://ylano.github.io/LoginLoL/
+<a href="https://ylano.github.io/LoginLoL/" target="blank">https://ylano.github.io/LoginLoL/</a>
