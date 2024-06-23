@@ -11,18 +11,25 @@ Este projeto foi desenvolvido com o objetivo de recriar a tela de login do Leagu
 
 ## Funcionalidades
 Layout Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis, tablets e desktops.
+
 Interatividade: Campos de input que mudam de estilo ao receberem foco, botão de login habilitado apenas quando os campos são preenchidos corretamente.
+
 Autenticação Social: Botões de login para plataformas populares como Facebook, Google, Apple, Xbox e PlayStation.
+
 Estilização Avançada: Uso de variáveis CSS para cores, fontes e outros elementos estilísticos para garantir consistência e facilidade de manutenção.
-Aprendizado
+
+## Aprendizado
 Durante o desenvolvimento deste projeto, aprendi e pratiquei os seguintes conceitos:
 
 Estruturação semântica do HTML para melhor acessibilidade e SEO.
+
 Uso de CSS moderno, incluindo Flexbox e Grid, para criar layouts responsivos.
+
 Aplicação de transições e animações CSS para melhorar a experiência do usuário.
+
 Manipulação do DOM com JavaScript para adicionar interatividade aos elementos da página.
-Boas práticas em organização e manutenção de código CSS e JavaScript.
-Como Executar o Projeto
+
+## Como Executar o Projeto
 Clone este repositório:
 bash
 Copiar código
