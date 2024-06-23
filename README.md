@@ -5,9 +5,9 @@ Este projeto foi desenvolvido com o objetivo de recriar a tela de login do Leagu
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" width="20" /> HTML5: Para estruturar o conteúdo da página.
 
-CSS3: Para estilizar a interface, utilizando Flexbox e Grid para o layout, além de transições e animações.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" width="20" /> CSS3: Para estilizar a interface, utilizando Flexbox e Grid para o layout, além de transições e animações.
 
-JavaScript: Para adicionar interatividade e manipular o DOM.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" width="20" /> JavaScript: Para adicionar interatividade e manipular o DOM.
 
 ## Funcionalidades
 Layout Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis, tablets e desktops.
