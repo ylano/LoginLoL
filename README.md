@@ -3,9 +3,12 @@ Este projeto foi desenvolvido com o objetivo de recriar a tela de login do Leagu
 
 ## Tecnologias Utilizadas
 HTML5: Para estruturar o conteúdo da página.
+
 CSS3: Para estilizar a interface, utilizando Flexbox e Grid para o layout, além de transições e animações.
+
 JavaScript: Para adicionar interatividade e manipular o DOM.
-Funcionalidades
+
+## Funcionalidades
 Layout Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis, tablets e desktops.
 Interatividade: Campos de input que mudam de estilo ao receberem foco, botão de login habilitado apenas quando os campos são preenchidos corretamente.
 Autenticação Social: Botões de login para plataformas populares como Facebook, Google, Apple, Xbox e PlayStation.
