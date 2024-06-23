@@ -32,7 +32,9 @@ Manipulação do DOM com JavaScript para adicionar interatividade aos elementos 
 ## Como Executar o Projeto
 Clone este repositório:
 Copiar código
-```git clone https://github.com/seu-usuario/seu-repositorio.git```
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
 Navegue até o diretório do projeto:
 bash
 Copiar código
