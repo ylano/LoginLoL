@@ -32,7 +32,7 @@ Manipulação do DOM com JavaScript para adicionar interatividade aos elementos 
 ## Como Executar o Projeto
 Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ylano/LoginLoL/tree/main
 ```
 Navegue até o diretório do projeto:
 ```bash
