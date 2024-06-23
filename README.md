@@ -2,7 +2,9 @@
 Este projeto foi desenvolvido com o objetivo de recriar a tela de login do League of Legends (LoL) utilizando HTML, CSS e JavaScript. A ideia principal foi aprimorar minhas habilidades em desenvolvimento web, focando em técnicas de layout responsivo, estilização avançada e interatividade com JavaScript.
 
 ## Tecnologias Utilizadas
-HTML5: Para estruturar o conteúdo da página.
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          HTML5: Para estruturar o conteúdo da página.
 
 CSS3: Para estilizar a interface, utilizando Flexbox e Grid para o layout, além de transições e animações.
 
