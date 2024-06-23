@@ -1,4 +1,4 @@
-Projeto: Recriação da Tela do League of Legends
+# Projeto: Recriação da Tela de login do League of Legends
 Este projeto foi desenvolvido com o objetivo de recriar a tela de login do League of Legends (LoL) utilizando HTML, CSS e JavaScript. A ideia principal foi aprimorar minhas habilidades em desenvolvimento web, focando em técnicas de layout responsivo, estilização avançada e interatividade com JavaScript.
 
 Tecnologias Utilizadas
