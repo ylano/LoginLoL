@@ -31,19 +31,17 @@ Manipulação do DOM com JavaScript para adicionar interatividade aos elementos 
 
 ## Como Executar o Projeto
 Clone este repositório:
-Copiar código
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 Navegue até o diretório do projeto:
-bash
-Copiar código
+```bash
 cd seu-repositorio
-Abra o arquivo index.html em seu navegador preferido.
-Capturas de Tela
-Insira aqui capturas de tela ou GIFs do seu projeto em funcionamento.
+```
+Abra o arquivo index.html em seu navegador.
 
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests com sugestões, correções ou melhorias.
-
+## Capturas de Tela
 ![DemoLoL](https://github.com/ylano/LoginLoL/assets/137581500/2e8bfb93-52e3-4f1d-9626-f4496ead658f)
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests com sugestões, correções ou melhorias.
